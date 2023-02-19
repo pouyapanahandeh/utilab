@@ -1,4 +1,4 @@
-###UTILAB
+### UTILAB
 
 This package provides developers with a collection of commonly used utility functions to make their code more efficient and maintainable. Arrays, strings, dates, and more are handled by its functions.
 
@@ -28,7 +28,7 @@ Here is a list of the functions provided by the package:
 
 `formatCurrency(value, symbol)`: This function takes a number and an optional currency symbol as input and returns a formatted currency string.
 
-####To use this package in your project, you first need to install it via npm. You can do this by running the following command in your project directory:
+#### To use this package in your project, you first need to install it via npm. You can do this by running the following command in your project directory:
 
 ```javascript
 npm install utilab
