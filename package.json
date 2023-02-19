@@ -1,0 +1,17 @@
+{
+  "name": "utilab",
+  "version": "1.0.0",
+  "description": "utility functions that can help developers write more efficient and maintainable code.",
+  "main": "src/utils.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "utility functions"
+  ],
+  "author": "panahandehpooya@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
